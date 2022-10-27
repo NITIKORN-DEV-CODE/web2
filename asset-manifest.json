@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.337862b7.css",
+    "main.js": "/static/js/main.a8e15390.js",
+    "static/js/787.22e355ed.chunk.js": "/static/js/787.22e355ed.chunk.js",
+    "static/media/nutt1.png": "/static/media/nutt1.ef6603e063333e434b2b.png",
+    "static/media/fishlogo.png": "/static/media/fishlogo.9b338687af9d58c3736e.png",
+    "static/media/empty-cart.png": "/static/media/empty-cart.d988adffee4e652c0d94.png",
+    "index.html": "/index.html",
+    "main.337862b7.css.map": "/static/css/main.337862b7.css.map",
+    "main.a8e15390.js.map": "/static/js/main.a8e15390.js.map",
+    "787.22e355ed.chunk.js.map": "/static/js/787.22e355ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337862b7.css",
+    "static/js/main.a8e15390.js"
+  ]
+}
